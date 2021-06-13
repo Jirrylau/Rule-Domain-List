@@ -1,2 +1,2 @@
-# surge-rule-myself
-Surge rules for myself to use
+# surge-rule-domain-list
+Surge rules about domain list
