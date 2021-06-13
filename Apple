@@ -1,9 +1,9 @@
 apple.com.cn // Apple中国官网
 developer.apple.com // Apple Developer
-icloud.com // 云上贵州
-icloud.com.cn // 云上贵州
-icloud-content.com // 云上贵州
-itunes.com // iTunes
+icloud.com //iCloud
+icloud.com.cn //云上贵州
+icloud-content.com //云上贵州
+itunes.com //iTunes
 mzstatic.com //更新app，商店内容，如 App、图书和音乐
 albert.apple.com //设备激活
 captive.apple.com //针对使用强制门户的网络进行互联网连接验证
@@ -32,15 +32,13 @@ appldnld.apple.com //iOS 更新
 configuration.apple.com //Rosetta 2 更新	
 gg.apple.com //iOS、Apple tvOS 和 macOS 更新	
 gnf-mdn.apple.com //macOS 更新	
-macOS 更新
 gnf-mr.apple.com //macOS 更新	
 gs.apple.com //macOS 更新	
 ig.apple.com //macOS 更新	
 mesu.apple.com //托管软件更新目录	
 ns.itunes.apple.com	
-//macOS 恢复
-oscdn.apple.com	
-osrecovery.apple.com
+oscdn.apple.com	//macOS 恢复
+osrecovery.apple.com //macOS 恢复
 
 
 
