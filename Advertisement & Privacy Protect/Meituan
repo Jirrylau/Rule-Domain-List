@@ -1,0 +1,4 @@
+met_mobile_sniffer.dreport.meituan.net,REJECT // 美团
+prism-report-net.dreport.meituan.net,REJECT // 美团
+report.meituan.com,REJECT // 美团
+route-stats.dreport.meituan.net,REJECT // 美团
